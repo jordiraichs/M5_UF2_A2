@@ -20,7 +20,7 @@ public class ApuntsCaixaBlanca{
                 }
                 n++;
                 longitud --;
-            } while(longitud>0)
+            } while(longitud>0);
         }
         return comptar;
     }
