@@ -1,4 +1,6 @@
 
+// Exercici proves caixa blanca
+
 public class ApuntsCaixaBlanca{
     
     public static void main(String[] args) {
